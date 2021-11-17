@@ -9,6 +9,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         println("THIS IS CONTAINED IN MY SECOND COMMIT")
-        println("THIS LINE WILL BE MERGE")
+        println("THIS LINE WILL BE YOUTUBE")
     }
 }
